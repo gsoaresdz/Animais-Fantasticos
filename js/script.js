@@ -8,7 +8,7 @@ import Modal from './modules/modal.js';
 import initAnimacaoScroll from './modules/scroll-animacao.js';
 import ScrollSuave from './modules/scroll-suave.js';
 import TabNav from './modules/tabnav.js';
-import initTooltip from './modules/tooltip.js';
+import Tooltip from './modules/tooltip.js';
 
 const scrollSuave = new ScrollSuave('[data-menu="suave"] a[href^="#"]');
 scrollSuave.init();
@@ -29,7 +29,9 @@ const modal = new Modal(
 );
 modal.init();
 
-initTooltip();
+const tooltip = new Tooltip('[data-tooltip]');
+tooltip.init();
+
 initDropdownMenu();
 initMenuMobile();
 initFuncionamento();
