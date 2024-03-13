@@ -1,4 +1,4 @@
-import AnimaNumeros from './anima-numeros';
+import AnimaNumeros from './anima-numeros.js';
 
 export default function initFetchAnimais() {
   function createAnimal(animal) {
