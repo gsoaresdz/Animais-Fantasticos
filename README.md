@@ -1,5 +1,5 @@
 markdownCopy code
-<h1 align="center">Animais Fantásticos</h1><p align="center"><img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8"><img alt="Github language count" src="https://img.shields.io/github/languages/count/usuario/animais-fantasticos?color=56BEB8"><img alt="Repository size" src="https://img.shields.io/github/repo-size/usuario/animais-fantasticos?color=56BEB8"></p><p align="center"><a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
+<h1 align="center">Animais Fantásticos</h1><p align="center"><img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8"><img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animais-fantasticos?color=56BEB8"><img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animais-fantasticos?color=56BEB8"></p><p align="center"><a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
@@ -59,3 +59,13 @@ $ npm install
 # Execute o projeto
 $ npm start
 ```
+
+## **:memo: Licença**
+
+Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+
+Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+
+&#xa0;
+
+<a href="#top">De volta ao topo</a>
