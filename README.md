@@ -1,12 +1,22 @@
-markdownCopy code
-<h1 align="center">Animais Fantásticos</h1><p align="center"><img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8"><img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animais-fantasticos?color=56BEB8"><img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animais-fantasticos?color=56BEB8"></p><p align="center"><a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0;
+<h1 align="center">CoinMarketCap API Scraper</h1>
+<p align="center">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animais-fantasticos?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animais-fantasticos?color=56BEB8">
+  <!--<img alt="License" src="https://img.shields.io/github/license/gsoaresdz/coin-market-cap?color=56BEB8">-->
+</p>
+<p align="center">
+  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
   <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
   <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
   <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
   <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a></p><br>## **:dart: Sobre**
+  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
+</p>
+<br>
 
+## **:dart: Sobre**
 Este projeto consiste em um site de apresentação dos animais fantásticos, desenvolvido com HTML, CSS e JavaScript. O site inclui diversas funcionalidades interativas, como menus dropdown, modais, animação de números e slides de imagens.
 
 ## **:memo: Estrutura do Projeto**
