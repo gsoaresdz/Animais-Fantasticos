@@ -3,7 +3,6 @@
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animais-fantasticos?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animais-fantasticos?color=56BEB8">
-  <!--<img alt="License" src="https://img.shields.io/github/license/seu-usuario/seu-repositorio?color=56BEB8">-->
 </p>
 <p align="center">
   <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
