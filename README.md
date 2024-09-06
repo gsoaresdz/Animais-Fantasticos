@@ -1,82 +1,80 @@
-<h1 align="center">Animais Fantásticos</h1>
+<h1 align="center">Fantastic Animals</h1>
 <p align="center">
   <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8">
   <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animais-fantasticos?color=56BEB8">
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animais-fantasticos?color=56BEB8">
 </p>
 <p align="center">
-  <a href="#dart-sobre">Sobre</a> &#xa0; | &#xa0; 
-  <a href="#memo-estrutura-do-projeto">Estrutura do Projeto</a> &#xa0; | &#xa0;
+  <a href="#dart-about">About</a> &#xa0; | &#xa0; 
+  <a href="#memo-project-structure">Project Structure</a> &#xa0; | &#xa0;
   <a href="#sparkles-features">Features</a> &#xa0; | &#xa0;
-  <a href="#rocket-tecnologias">Tecnologias</a> &#xa0; | &#xa0;
-  <a href="#white_check_mark-requerimentos">Requerimentos</a> &#xa0; | &#xa0;
-  <a href="#checkered_flag-execução">Execução</a> &#xa0; | &#xa0;
-  <a href="#memo-licença">Licença</a> &#xa0; | &#xa0;
-  <a href="https://github.com/gsoaresdz" target="_blank">Autor</a>
+  <a href="#rocket-technologies">Technologies</a> &#xa0; | &#xa0;
+  <a href="#white_check_mark-requirements">Requirements</a> &#xa0; | &#xa0;
+  <a href="#checkered_flag-execution">Execution</a> &#xa0; | &#xa0;
+  <a href="#memo-license">License</a> &#xa0; | &#xa0;
+  <a href="https://github.com/gsoaresdz" target="_blank">Author</a>
 </p>
 <br>
 
-## **:dart: Sobre**
+## **:dart: About**
 
-Este projeto consiste em um site de apresentação dos animais fantásticos, desenvolvido com HTML, CSS e JavaScript. O site inclui diversas funcionalidades interativas, como menus dropdown, modais, animação de números e slides de imagens.
+This project consists of a website presenting fantastic animals, developed with HTML, CSS, and JavaScript. The site includes various interactive features such as dropdown menus, modals, number animations, and image sliders.
 
-## **:memo: Estrutura do Projeto**
+## **:memo: Project Structure**
 
-O projeto é organizado nas seguintes pastas e arquivos:
+The project is organized into the following folders and files:
 
-- **css/**: Contém os arquivos CSS para estilização do site.
-- **img/**: Contém as imagens utilizadas no site.
-- **js/**: Contém os módulos JavaScript para funcionalidades interativas.
-- **index.html**: Página principal do site.
-- **package.json**: Arquivo de configuração do npm.
-- **webpack.config.js**: Configuração do Webpack.
+- **css/**: Contains the CSS files for the website's styling.
+- **img/**: Contains the images used on the site.
+- **js/**: Contains the JavaScript modules for interactive features.
+- **index.html**: Main page of the website.
+- **package.json**: npm configuration file.
+- **webpack.config.js**: Webpack configuration.
 
 ## **:sparkles: Features**
 
-:heavy_check_mark: **Menu Dropdown**: Menu interativo com submenus.
+:heavy_check_mark: **Dropdown Menu**: Interactive menu with submenus.
 
-:heavy_check_mark: **Modal**: Janelas modais para exibir informações adicionais.
+:heavy_check_mark: **Modal**: Modal windows for displaying additional information.
 
-:heavy_check_mark: **Animação de Números**: Animação dos números apresentados no site.
+:heavy_check_mark: **Number Animation**: Animation of numbers displayed on the website.
 
-:heavy_check_mark: **Slide de Imagens**: Carrossel de imagens interativo.
+:heavy_check_mark: **Image Slider**: Interactive image carousel.
 
-## **:rocket: Tecnologias**
+## **:rocket: Technologies**
 
-As seguintes ferramentas foram usadas neste projeto:
+The following tools were used in this project:
 
-- [HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
-- [CSS](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
-- [JavaScript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+- [HTML](https://developer.mozilla.org/en-US/docs/Web/HTML)
+- [CSS](https://developer.mozilla.org/en-US/docs/Web/CSS)
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 - [Webpack](https://webpack.js.org/)
 - [Babel](https://babeljs.io/)
 
-## **:white_check_mark: Requerimentos**
+## **:white_check_mark: Requirements**
 
-Antes de iniciar :checkered_flag:, você precisa ter [Git](https://git-scm.com/) e [Node.js](https://nodejs.org/en/) instalados.
+Before starting :checkered_flag:, you need to have [Git](https://git-scm.com/) and [Node.js](https://nodejs.org/en/) installed.
 
-## **:checkered_flag: Execução**
+## **:checkered_flag: Execution**
 
 ```bash
-# Clone este repositório
+# Clone this repository
 $ git clone https://github.com/gsoaresdz/animais-fantasticos.git
 
-# Acesse a pasta do projeto
+# Navigate to the project folder
 $ cd animais-fantasticos
 
-# Instale as dependências
+# Install the dependencies
 $ npm install
 
-# Execute o projeto
+# Run the project
 $ npm start
 ```
 
-## **:memo: Licença**
+## **:memo: License**
 
-Este projeto está sob licença do MIT. Para obter mais detalhes, consulte o arquivo [LICENSE](LICENSE).
+This project is under the MIT License. For more details, see the [LICENSE](LICENSE) file.
 
-Feito com :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
+Made with :heart: by <a href="https://github.com/gsoaresdz" target="_blank">gsoaresdz</a>
 
-&#xa0;
-
-<a href="#top">De volta ao topo</a>
+<a href="#top">Back to top</a>
