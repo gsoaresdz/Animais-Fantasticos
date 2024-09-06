@@ -1,8 +1,8 @@
 <h1 align="center">Fantastic Animals</h1>
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/animais-fantasticos?color=56BEB8">
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/animais-fantasticos?color=56BEB8">
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/animais-fantasticos?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/gsoaresdz/fantastic-animals?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/gsoaresdz/fantastic-animals?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/gsoaresdz/fantastic-animals?color=56BEB8">
 </p>
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
@@ -59,7 +59,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com/) a
 
 ```bash
 # Clone this repository
-$ git clone https://github.com/gsoaresdz/animais-fantasticos.git
+$ git clone https://github.com/gsoaresdz/fantastic-animals.git
 
 # Navigate to the project folder
 $ cd animais-fantasticos
